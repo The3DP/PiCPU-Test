@@ -1,7 +1,7 @@
 There are 4 differnt tests you can get from this repository to perform on your Pi's CPU.
 These files are Test-A,B,C,and D. Each file has a purpose and will cover specific 
-areas on your CPU. Along with the 4 simple-based tests is a more extreme test,
+areas on your CPU. Along with the 4 simple-based tests is a greater stress test,
 called the Nitro-Test. This is ONLY reccommended for Raspberry Pi's with good 
 power and cooling. You can change the Nitro-Test test time
 by finding the duration- code strip
-By default, Nitro-Test is set for 30s
+By default, Nitro-Test is set for 30s.
