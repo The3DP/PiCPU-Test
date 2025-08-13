@@ -12,3 +12,13 @@ called Nitro-Test. This is ONLY recommended for Raspberry Pi's with good
 power and cooling. You can change the Nitro-Test test time
 by finding the "duration-" code strip
 By default, Nitro-Test is set for 30s
+
+## 📊 Project Status
+
+This repo is 70% complete
+
+<div style="width: 100%; background-color: #ddd;">
+  <div style="width: 70%; background-color: #4CAF50; padding: 4px 0; color: white; text-align: center;">
+    70%
+  </div>
+</div>
