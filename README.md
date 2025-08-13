@@ -17,8 +17,8 @@ By default, Nitro-Test is set for 30s
 
 This repo is 70% complete
 
-<div style="width: 100%; background-color: #ddd;">
-  <div style="width: 70%; background-color: #4CAF50; padding: 4px 0; color: white; text-align: center;">
+<div style="width: 100%; background-color: #ddd; border-radius: 5px;">
+  <div style="width: 70%; background-color: #4CAF50; padding: 6px 0; color: white; text-align: center; border-radius: 5px;">
     70%
   </div>
 </div>
