@@ -3,7 +3,7 @@
 Test your Raspberry Pi's CPU by only using its terminal.
 It's easy, simple, and takes little time to test.
 
-Tests to Try
+# Tests to Try
 
 There are 4 differnt tests you can get from this repository to perform on your Pi's CPU.
 These files are Test-A,B,C,and D. Each file has a purpose and will cover specific 
