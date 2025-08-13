@@ -13,12 +13,4 @@ power and cooling. You can change the Nitro-Test test time
 by finding the "duration-" code strip
 By default, Nitro-Test is set for 30s
 
-## 📊 Project Status
-
-This repo is 70% complete
-
-<div style="width: 100%; background-color: #ddd; border-radius: 5px;">
-  <div style="width: 70%; background-color: #4CAF50; padding: 6px 0; color: white; text-align: center; border-radius: 5px;">
-    70%
-  </div>
-</div>
+![70% Complete](https://img.shields.io/badge/Progress-70%25-brightgreen)
