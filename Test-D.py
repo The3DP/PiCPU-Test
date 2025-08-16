@@ -7,4 +7,3 @@ while time.time() - start < 10:
     ops += 1
 
 print(f'Floating-point operations in 10s: {ops}')
-"
