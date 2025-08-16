@@ -20,4 +20,3 @@ threads = [threading.Thread(target=cpu_stress) for _ in range(num_threads)]
 [t.join() for t in threads]
 
 print('Stress test complete.')
-"
