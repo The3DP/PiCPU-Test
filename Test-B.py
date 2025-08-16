@@ -15,4 +15,3 @@ threads = [threading.Thread(target=stress) for _ in range(num_threads)]
 [t.join() for t in threads]
 
 print(f'Multithreaded stress test completed for {duration} seconds')
-"
