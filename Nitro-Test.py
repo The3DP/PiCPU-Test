@@ -1,4 +1,4 @@
-python3 -c "
+" python3 -c "
 import threading, time, math, os
 
 def cpu_stress():
