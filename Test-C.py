@@ -13,4 +13,3 @@ while time.time() - start < 10:
     runs += 1
 
 print(f'Completed {runs} Fibonacci(20) calculations in 10s')
-"
